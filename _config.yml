@@ -1,0 +1,14 @@
+layout_spectrum: 0.1684588
+typography_spectrum: 0.5716846
+color:
+  saturation: 0.2930025
+  lightness: 0.2441292
+  brandStrength: 0.9611492
+  rhythmicContrast: 0.398748
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: kennbivins
